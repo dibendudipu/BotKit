@@ -1,5 +1,5 @@
-var botId    = "st-0954eedb-889c-5491-9f92-f5671760c942";
-var botName  = "LiveChat";
+var botId    = "st-d3371827-f71a-5c44-80fb-e0ed2ce50ec8";
+var botName  = "Car1 Selector";
 var sdk      = require("./lib/sdk");
 var Promise  = require('bluebird');
 var request = require('request-promise');
